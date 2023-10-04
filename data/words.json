@@ -1,0 +1,490 @@
+{
+    "0": {
+        "word": "you",
+        "character": "你",
+        "pinyin": "nǐ",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "1": {
+        "word": "good",
+        "character": "好",
+        "pinyin": "hǎo",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "2": {
+        "word": "please",
+        "character": "请",
+        "pinyin": "qǐng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "3": {
+        "word": "ask",
+        "character": "问",
+        "pinyin": "wèn",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "4": {
+        "word": "expensive / your honorable (surname)",
+        "character": "贵",
+        "pinyin": "guì",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "5": {
+        "word": "surname",
+        "character": "姓",
+        "pinyin": "xìng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "6": {
+        "word": "I / me",
+        "character": "我",
+        "pinyin": "wǒ",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "7": {
+        "word": "question particle - hint: & you?",
+        "character": "呢",
+        "pinyin": "ne",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "8": {
+        "word": "miss",
+        "character": "小姐",
+        "pinyin": "xiǎojiě",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "9": {
+        "word": "called / to call",
+        "character": "叫",
+        "pinyin": "jiào",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "10": {
+        "word": "what",
+        "character": "什么",
+        "pinyin": "shénme",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "11": {
+        "word": "name",
+        "character": "名字",
+        "pinyin": "míngzi",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "12": {
+        "word": "mister",
+        "character": "先生",
+        "pinyin": "xiānshēng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "13": {
+        "word": "is",
+        "character": "是",
+        "pinyin": "shì",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "14": {
+        "word": "teacher",
+        "character": "老师",
+        "pinyin": "lǎoshī",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "15": {
+        "word": "question indicator",
+        "character": "吗",
+        "pinyin": "ma",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "16": {
+        "word": "no / not",
+        "character": "不",
+        "pinyin": "bù",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "17": {
+        "word": "student",
+        "character": "学生",
+        "pinyin": "xuéshēng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "18": {
+        "word": "also",
+        "character": "也",
+        "pinyin": "yě",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "19": {
+        "word": "person",
+        "character": "人",
+        "pinyin": "rén",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "20": {
+        "word": "China",
+        "character": "中国",
+        "pinyin": "Zhōngguó",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "21": {
+        "word": "Beijing",
+        "character": "北京",
+        "pinyin": "Běijīng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "22": {
+        "word": "America",
+        "character": "美国",
+        "pinyin": "Měiguó",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "23": {
+        "word": "New York",
+        "character": "纽约",
+        "pinyin": "Niǔyuē",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "24": {
+        "word": "that",
+        "character": "那",
+        "pinyin": "nà",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "25": {
+        "word": "of",
+        "character": "的",
+        "pinyin": "de",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "26": {
+        "word": "photo",
+        "character": "照片",
+        "pinyin": "zhàopiàn",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "27": {
+        "word": "this",
+        "character": "这",
+        "pinyin": "zhè",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "28": {
+        "word": "father",
+        "character": "爸爸",
+        "pinyin": "bàba",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "29": {
+        "word": "mother",
+        "character": "妈妈",
+        "pinyin": "māma",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "30": {
+        "word": "younger brother",
+        "character": "弟弟",
+        "pinyin": "dìdi",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "31": {
+        "word": "son",
+        "character": "儿子",
+        "pinyin": "érzi",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "32": {
+        "word": "child",
+        "character": "孩子",
+        "pinyin": "háizi",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "33": {
+        "word": "who",
+        "character": "谁",
+        "pinyin": "shéi",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "34": {
+        "word": "he / him",
+        "character": "他",
+        "pinyin": "tā",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "35": {
+        "word": "she / her",
+        "character": "她",
+        "pinyin": "tā",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "36": {
+        "word": "older sister",
+        "character": "姐姐",
+        "pinyin": "jiějie",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "37": {
+        "word": "male",
+        "character": "男",
+        "pinyin": "nán",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "38": {
+        "word": "older brother (f.)",
+        "character": "大哥",
+        "pinyin": "dàgē",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "39": {
+        "word": "have",
+        "character": "有",
+        "pinyin": "yǒu",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "40": {
+        "word": "not",
+        "character": "没",
+        "pinyin": "méi",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "41": {
+        "word": "not have",
+        "character": "没有",
+        "pinyin": "méiyǒu",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "42": {
+        "word": "home / family",
+        "character": "家",
+        "pinyin": "jiā",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "43": {
+        "word": "how many / some / a few",
+        "character": "几",
+        "pinyin": "jǐ",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "44": {
+        "word": "mouth / (a measure word)",
+        "character": "口",
+        "pinyin": "kǒu",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "45": {
+        "word": "older brother（inf.)",
+        "character": "哥哥",
+        "pinyin": "gēgē",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "46": {
+        "word": "a couple/few/two",
+        "character": "两",
+        "pinyin": "liǎng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "47": {
+        "word": "younger sister",
+        "character": "妹妹",
+        "pinyin": "mèimei",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "48": {
+        "word": "and",
+        "character": "和",
+        "pinyin": "hé",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "49": {
+        "word": "daughter",
+        "character": "女儿",
+        "pinyin": "nǚ'ér",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "50": {
+        "word": "eldest sister",
+        "character": "大姐",
+        "pinyin": "dàjiě",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "51": {
+        "word": "second eldest sister",
+        "character": "二姐",
+        "pinyin": "èr jiě",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "52": {
+        "word": "do / make",
+        "character": "做",
+        "pinyin": "zuò",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "53": {
+        "word": "work / job",
+        "character": "工作",
+        "pinyin": "gōngzuò",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "54": {
+        "word": "female",
+        "character": "女",
+        "pinyin": "nǚ",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "55": {
+        "word": "lawyer",
+        "character": "律师",
+        "pinyin": "lǜshī",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "56": {
+        "word": "English",
+        "character": "英文",
+        "pinyin": "Yīngwén",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "57": {
+        "word": "all",
+        "character": "都",
+        "pinyin": "dōu",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "58": {
+        "word": "university student",
+        "character": "大学生",
+        "pinyin": "dàxuéshēng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "59": {
+        "word": "university",
+        "character": "大学",
+        "pinyin": "dàxué",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    },
+    "60": {
+        "word": "doctor",
+        "character": "医生",
+        "pinyin": "yīshēng",
+        "score": 0,
+        "date-added": "10-04-2023",
+        "tags": []
+    }
+}
